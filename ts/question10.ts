@@ -1,6 +1,3 @@
-import { rejects } from "assert";
-import { resolve } from "path";
-
 interface User {
   type: "user";
   name: string;
